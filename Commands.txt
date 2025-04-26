@@ -24,10 +24,14 @@
     - Time-Based Analysis of Ratings
 1. python Time_based_analysis.py Books_rating_new.csv 
 2. python Time_based_analysis.py Books_rating_new.csv > time_rating.txt
-3.  python Time_based_analysis_plot.py
+3. python Time_based_analysis_plot.py
     
     - Frequent Word Analysis in Review Text
 1. python Frequent_words.py Books_rating_new.csv
 2. python Frequent_words.py Books_rating_new.csv > frequent_words.txt
 3. python Frequent_words_plot.py
 
+    - Correlating Helpfulness and Star Ratings
+1. python Helpfulness_vs_ratings.py Books_rating_new.csv
+2. python Helpfulness_vs_ratings.py Books_rating_new.csv > helpfulness_rating.txt
+3. python Helpfulness_vs_ratings_plot.py
