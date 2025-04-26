@@ -20,6 +20,11 @@
 
 
 # TASK 6 : (Additional Analysis) 
+    - Sentiment Analysis of Review Text
+1. python Sentiment_analysis.py Books_rating_new.csv
+2. python Sentiment_analysis.py Books_rating_new.csv > sentiment_analysis.txt
+3. python Sentiment_analysis_plot.py (Change the code to read from the .txt file)
+
 
     - Time-Based Analysis of Ratings
 1. python Time_based_analysis.py Books_rating_new.csv 
