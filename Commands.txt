@@ -1,0 +1,24 @@
+# TASK 2: Review counts
+1. python Review_counts.py Books_rating_new.csv > reviewcounts.txt
+2. python Review_counts_plot.py
+
+# TASK 3: Average star rating
+1. python Average_star_rating.py Books_rating_new.csv > averagescores.txt
+2. python Average_star_rating_plot.py
+
+# TASK 4: Most reviewed Books
+1. python Most_reviews.py Books_rating_new.csv > topreviews.txt
+2. python Most_reviews_plot.py
+
+# TASK 5: Helpful scores
+1. python Helpful_score.py Books_rating_new.csv > helpfulscores.txt
+2. python Helpful_score_plot.py
+
+
+# TASK 6 : (Additional Analysis) 
+    
+    - Frequently used Frequent_words
+1. python Frequent_words.py Books_rating_new.csv > frequent_words.txt
+2. python Frequent_words_plot.py
+
+

@@ -1,0 +1,48 @@
+"Usa Laminated Map"	5.0
+"Vector Quantization and Signal Compression (The Springer International Series in Engineering and Computer Science)"	4.4
+"Victoria Magazine July 1994"	4.0
+"Voices from the Farm: Adventures in Community Living"	4.818181818181818
+"Whispers of the Wicked Saints"	3.71875
+"Hunting The Hard Way"	4.769230769230769
+"Its Only Art If Its Well Hung!"	4.0
+"King James: Believe the Hype---The LeBron James Story"	4.533333333333333
+"By Honor Bound (The Lassiter Law) (Silhouette Intimate Moments)"	4.0
+"Cien Aos de BOXEO (One Hundred Years of Box)"	5.0
+"Dealing With Disappointment: Helping Kids Cope When Things Don't Go Their Way"	5.0
+"Dr. Seuss: American Icon"	4.555555555555555
+"Dramatica for Screenwriters"	4.7
+"Eyewitness Travel Guide to Europe"	4.2592592592592595
+"Gold and greenstone"	5.0
+"Guide to Owning a Birman Cat (Popular Cat Library)"	5.0
+"History of Magic and the Occult"	4.0
+"Homer or Moses?: Early Christian Interpretations of the History of Culture (Hermeneutische Untersuchungen zur Theologie)"	2.75
+"Wonderful Worship in Smaller Churches"	5.0
+"\"The Ultimate Guide to Law School Admission: Insider Secrets for Getting a \"\"Big Envelope\"\" with Your Acceptance to Law School!\""	3.5714285714285716
+"Seance"	4.25
+"Tess and the Highlander"	4.235294117647059
+"The Battleship Bismarck"	3.5
+"The Church of Christ: A Biblical Ecclesiology for Today"	4.5
+"Anna Karenina. (Lernmaterialien)"	1.0
+"Beginner's Yoruba (Hippocrene Beginner's Series)"	3.8
+"Building the timber frame house: The revival of a forgotten craft"	4.157894736842105
+"Mensa Number Puzzles (Mensa Word Games for Kids)"	3.5
+"Mini-mysteries"	3.0
+"Muslim Women's Choices: Religious Belief and Social Reality (Cross Cultural Perspectives on Women)"	3.5
+"No place to cry: The hurt and healing of sexual abuse"	4.857142857142857
+"Overcoming Hypertension (Dr. Kenneth H. Cooper's Preventive Medicine Program)"	5.0
+"Paolo Di Canio Hb"	5.0
+"Portraits of the Presidents: The National Portrait Gallery"	4.0
+"Pyrography Designs"	4.25
+"Ricky Williams: Dreadlocks to Ditka"	5.0
+"Rising Sons and Daughters: Life Among Japan's New Young"	4.333333333333333
+"Saint Hyacinth of Poland"	4.5
+"A Walk in the Woods: a Play in Two Acts"	4.666666666666667
+"A husband for Kutani"	5.0
+"Alaska Sourdough"	4.333333333333333
+"The Forbidden Stories of Marta Veneranda"	5.0
+"The Ground and Grammar of Theology"	5.0
+"The Handbook of Community Practice"	4.0
+"The New Conspiracy Reader: From Planet X to the War on Terrorism-What You Really Don't Know"	2.5
+"The Overbury affair (Avon)"	3.0
+"The Oxford Handbook of Free Will (Oxford Handbooks)"	5.0
+"Treat yourself to life"	4.875
