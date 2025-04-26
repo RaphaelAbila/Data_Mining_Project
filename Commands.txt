@@ -16,9 +16,13 @@
 
 
 # TASK 6 : (Additional Analysis) 
+
+    - Time-Based Analysis of Ratings
+1. python Time_based_analysis.py Books_rating_new.csv > time_rating.txt
+2.  python Time_based_analysis_plot.py
     
-    - Frequently used Frequent_words
+    - Frequent Word Analysis in Review Text
 1. python Frequent_words.py Books_rating_new.csv > frequent_words.txt
 2. python Frequent_words_plot.py
 
-
+    - 
